@@ -14,7 +14,7 @@ Xterm and Htop needs are required for the app.
 
 To install them follow the below procedure -
 
-sudo apt-get install xtrem
+sudo apt-get install xterm
 
 sudo apt-get install htop
 
